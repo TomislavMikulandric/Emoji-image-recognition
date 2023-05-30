@@ -1,0 +1,46 @@
+CreateTraining: width:9,height:9,type:RGB
+Input: image:./images/emoji1-1.png, identity:emoji1
+Input: image:./images/emoji1-2.png, identity:emoji1
+Input: image:./images/emoji1-3.png, identity:emoji1
+Input: image:./images/emoji1-4.png, identity:emoji1
+Input: image:./images/emoji1-5.png, identity:emoji1
+Input: image:./images/emoji2-1.png, identity:emoji2
+Input: image:./images/emoji2-2.png, identity:emoji2
+Input: image:./images/emoji2-3.png, identity:emoji2
+Input: image:./images/emoji2-4.png, identity:emoji2
+Input: image:./images/emoji2-5.png, identity:emoji2
+Input: image:./images/emoji3-1.png, identity:emoji3
+Input: image:./images/emoji3-2.png, identity:emoji3
+Input: image:./images/emoji3-3.png, identity:emoji3
+Input: image:./images/emoji3-4.png, identity:emoji3
+Input: image:./images/emoji3-5.png, identity:emoji3
+Input: image:./images/emoji4-1.png, identity:emoji4
+Input: image:./images/emoji4-2.png, identity:emoji4
+Input: image:./images/emoji4-3.png, identity:emoji4
+Input: image:./images/emoji4-4.png, identity:emoji4
+Input: image:./images/emoji4-5.png, identity:emoji4
+Input: image:./images/emoji5-1.png, identity:emoji5
+Input: image:./images/emoji5-2.png, identity:emoji5
+Input: image:./images/emoji5-3.png, identity:emoji5
+Input: image:./images/emoji5-4.png, identity:emoji5
+Input: image:./images/emoji5-5.png, identity:emoji5
+Input: image:./images/emoji6-1.png, identity:emoji6
+Input: image:./images/emoji6-2.png, identity:emoji6
+Input: image:./images/emoji6-3.png, identity:emoji6
+Input: image:./images/emoji6-4.png, identity:emoji6
+Input: image:./images/emoji6-5.png, identity:emoji6
+Input: image:./images/emoji7-1.png, identity:emoji7
+Input: image:./images/emoji7-2.png, identity:emoji7
+Input: image:./images/emoji7-3.png, identity:emoji7
+Input: image:./images/emoji7-4.png, identity:emoji7
+Input: image:./images/emoji7-5.png, identity:emoji7
+Input: image:./images/emoji8-1.png, identity:emoji8
+Input: image:./images/emoji8-2.png, identity:emoji8
+Input: image:./images/emoji8-3.png, identity:emoji8
+Input: image:./images/emoji8-4.png, identity:emoji8
+Input: image:./images/emoji8-5.png, identity:emoji8
+Network: hidden1:100, hidden2:0
+Train: Mode:console, Minutes:1, StrategyError:0.005,StrategyCycles:1000
+Whatis: image:./images/merged1.png
+Whatis: image:./images/merged2.png
+Whatis: image:./images/merged3.png
